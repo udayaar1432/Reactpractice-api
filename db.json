@@ -1,0 +1,78 @@
+{
+  "todo": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "delectus aut autem",
+      "status": "completed"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "quis ut nam qui",
+      "status": "notcompleted"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "fugiat veniam minus",
+      "status": "completed"
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "et porro tempora",
+      "status": "notcompleted"
+    },
+    {
+      "title": "helo",
+      "id": 5
+    },
+    {
+      "title": "kjdbcj",
+      "status": "complited",
+      "id": 6
+    },
+    {
+      "title": "helo",
+      "id": 7
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "hii",
+      "author": "chethanbaghath",
+      "id": 3
+    },
+    {
+      "title": "hii",
+      "author": "chethanbaghath",
+      "id": 4
+    },
+    {
+      "title": "Fred",
+      "author": "Flintstone",
+      "id": 5
+    },
+    {
+      "title": "Fred",
+      "author": "Flintstone",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

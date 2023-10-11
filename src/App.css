@@ -1,0 +1,14 @@
+.itemlist{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid;
+  margin: 0px auto;
+  margin-top: 5px;
+  width: 60%;
+  height: 2rem;
+  padding: 5px;
+}
+.title{
+  flex-grow: 1;
+}
